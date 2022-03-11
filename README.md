@@ -1,9 +1,16 @@
 # bouwprogramma_update
+In dit project bouwen we een bouwprogramma. 
+Dit programma displayed een object. 
+De vorm en grootte van het object wordt bepaald op basis van de volgende drie invoerwaarden: lengte, breedte en hoogte.
 
-In dit project bouwen we een bouwprogramma. We maken hiervoor gebruik van de Turtle module.
-In stap 1 doen we een import.
+Goal
+Deze opdracht is een schoolopdracht.
 
-Daarna maken we voor ieder programmaonderdeel een functie.
+Used technologies
+De technologien die in dit project zijn gebruikt zijn:
+
+Python
+Turtle
 
 
 Import
